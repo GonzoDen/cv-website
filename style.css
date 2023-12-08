@@ -12,6 +12,12 @@ h1 {
     padding-bottom: 1em;
 }
 
+nav {
+    display: flex;
+    justify-content: space-around; /* Distribute items evenly */
+    margin-top: 10px;
+}
+
 h2 {
     font-size: 1.5em;
     padding-bottom: 1em;
